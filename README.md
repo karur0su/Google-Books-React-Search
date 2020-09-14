@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployment 
 
-This App is deployed on Heroku: [Google Books Search](https://gentle-sea-11155.herokuapp.com/)
+This App is deployed on Heroku: [Google Books Search](https://dashboard.heroku.com/apps/gentle-sea-11155)
 
 ## Technologies used
 
